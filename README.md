@@ -75,21 +75,7 @@ The application tracks battery life and usage as follows:
 
 The application implements a hierarchy of Phone classes to handle different phone brands and models. Each phone has certain properties, including battery life (non-configurable), color, material, and instance-specific IMEI.
 
-## Contributing
-
-Contributions to this project are welcome. To contribute, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes and commit them.
-4. Push your changes to your fork.
-5. Submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 ## Acknowledgments
 
-- The Phone Application was developed by [Your Name].
+- The Phone Application was developed by Mihaita Hingan.
 - This project was inspired by the need for a simple phone application with basic contact management, messaging, and calling capabilities.
